@@ -7,7 +7,6 @@ Returns a `Symbol` based on the given argument.
 [![Version](https://img.shields.io/github/v/tag/cyril/kernel-symbol.rb?label=Version&logo=github)](https://github.com/cyril/kernel-symbol.rb/tags)
 [![Yard documentation](https://img.shields.io/badge/Yard-documentation-blue.svg?logo=github)](https://rubydoc.info/github/cyril/kernel-symbol.rb/main)
 [![Ruby](https://github.com/cyril/kernel-symbol.rb/workflows/Ruby/badge.svg?branch=main)](https://github.com/cyril/kernel-symbol.rb/actions?query=workflow%3Aruby+branch%3Amain)
-[![RuboCop](https://github.com/cyril/kernel-symbol.rb/workflows/RuboCop/badge.svg?branch=main)](https://github.com/cyril/kernel-symbol.rb/actions?query=workflow%3Arubocop+branch%3Amain)
 [![License](https://img.shields.io/github/license/cyril/kernel-symbol.rb?label=License&logo=github)](https://github.com/cyril/kernel-symbol.rb/raw/main/LICENSE.md)
 
 ## Installation
